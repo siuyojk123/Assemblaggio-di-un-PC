@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Assemblaggio per scarsi</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+<meta charset="utf-8">
+  </head>
+   <body id="frontPage">
+  <header>
+    <nav>
+       <ul>                                   
+         <li>Home</li>
+         <li><a href="Alimentatore.html">Alimentatore</a></li>
+         <li><a href="Tastiera.html">Tastiera</a></li>
+         <li><a href="Schedamadre.html">Scheda madre</a></li>
+         <li><a href="Discostatosolido.html">Disco stato solido</a></li>
+         <li><a href="Processore.html">Processore</a></li>
+         <li><a href="Mouse.html">Mouse</a></li>
+         <li><a href="RAM.html">Memoria RAM</a></li>
+         <li><a href="Cabinet.html">Cabinet</a></li>
+         <li><a href="Sistemaoperativo.html">Sistema operativo</a></li>
+         
+       </ul>
+    </nav>
+  </header>  
+    <main class="stylishBox">
+      <h1>Assemblaggio di un PC</h1>
+<p>
+  <a class="niceLinks" href="https://www.ollo.it/configurator_pc.cfm">Clicca qui per acquistare parti di PC</a>
+   
+</p>
+<p>Esplora i link sopra per saperne di più</p>
+
+
+       <img src="Assemblaggio di un PC.png" class="topDivider someSpacing" alt="immagine PC"  width="500px" usemap="#workmap">
+   <map name="workmap">
+  <area shape="rect" coords="15,15,130,122" alt="Alimentatore" href="Alimentatore.html">
+  <area shape="rect" coords="143,15,345,105" alt="Tastiera" href="Tastiera.html">
+  <area shape="rect" coords="17,131,139,225" alt="Scheda madre" href="Schedamadre.html">
+  <area shape="rect" coords="355,40,502,163" alt="Disco stato solido" href="Discostatosolido.html">
+  <area shape="rect" coords="15,233,115,330" alt="Processore" href="Processore.html">
+  <area shape="rect" coords="123,300,210,380" alt="Mouse" href="Mouse.html">
+  <area shape="rect" coords="244,302,380,383" alt="Memoria RAM" href="RAM.html">
+  <area shape="rect" coords="392,165,499,338" alt="Cabinet" href="Cabinet.html">
+  </map>
+   <img src="Sistema operativo.PNG" class="topDivider someSpacing" alt="immagine sistema operativo"  style="width: 500px; height: 300px; margin: 0px;" usemap="#workmap1">
+ <map name="workmap1">
+   <area shape="rect" coords="0,0,524,400" alt="Sistema operativo" href="Sistemaoperativo.html">
+  </map>
+  
+    <p>Come assemblare un PC</p>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l3WTH0NaAfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    </main>
+    <footer>
+      <p>Li zhihao &copy;2020</p>
+    </footer>
+  </body>
+</html>
